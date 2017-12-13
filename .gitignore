@@ -1,2 +1,3 @@
 .gitorg
 .gitpriv
+*.pyc
